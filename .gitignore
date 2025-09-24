@@ -3,4 +3,4 @@ __pycache__/
 *.dat
 venv/
 env/
-dataset/*_preprocessed.csv
+dataset/*.h5
